@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a Professor of Applied Mathematics at Universitat Jaume I. My research interests include geometric numerical integration, splitting and composition methods, among others. Here, I share all the code I develop throughout my research.
 <!--
 **alejandro-escorihuela/alejandro-escorihuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
